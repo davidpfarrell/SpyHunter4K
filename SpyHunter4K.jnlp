@@ -1,0 +1,17 @@
+<? header ("Content-Type: application/x-java-jnlp-file"); ?>
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://SpyHunter4K.iNamik.com/" href="SpyHunter4K.jnlp">
+	<information>
+		<title>SpyHunter4K</title>
+		<vendor>Dave & Chris</vendor>
+		<homepage href="http://SpyHunter4K.iNamik.com/"/>
+		<description>Tribute to the classic Spy Hunter arcade game</description>
+		<icon href="SpyHunter4K.gif"/>
+		<offline-allowed/>
+	</information>
+	<resources>
+		<j2se href="http://java.sun.com/products/autodl/j2se" version="1.4+"/>
+		<jar href="SpyHunter4K.jar"/>
+	</resources>
+	<application-desc main-class="A"/>
+</jnlp>
