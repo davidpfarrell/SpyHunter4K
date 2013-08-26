@@ -1,7 +1,7 @@
 SpyHunter4K
 ===========
 
-**A Tribute To Spy Hunter, Submitted To The [http://javaunlimited.net/games/view.php?id=102](2006 Java 4K Gaming Competition)**
+**A Tribute To Spy Hunter, Submitted To The [2006 Java 4K Gaming Competition](http://javaunlimited.net/games/view.php?id=102)**
 
 About
 -----
@@ -40,5 +40,6 @@ http://www.javaunlimited.net/games/view.php?id=102
 Contributors
 ------------
 
-[https://github.com/iNamik](David Farrell) <DavidPFarrell@yahoo.com>
-[https://github.com/cajurabi](Chris Jones)
+[David Farrell](https://github.com/iNamik) <DavidPFarrell@yahoo.com>
+
+[Chris Jones](https://github.com/cajurabi)
