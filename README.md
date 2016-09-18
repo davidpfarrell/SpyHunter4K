@@ -32,9 +32,17 @@ We ran the class file through a set of tools to strip out unnecessary byte-code 
 Playing The Game
 ----------------
 
-You can view the ~~original~~moved submission page (and play the game) here:
+You can view the ~~original~~moved submission page here:
 
 http://www.java4k.com/index.php?action=games&method=view&gid=103
+
+You can play via JNLP here:
+
+https://inamik.github.io/SpyHunter4K/
+
+You can download the jar directly here:
+
+https://inamik.github.io/SpyHunter4K/SpyHunter4K.jar
 
 
 Contributors
