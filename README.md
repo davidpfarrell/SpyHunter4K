@@ -10,7 +10,7 @@ This was our entry into the 2006 Java 4K Gaming Competition.
 
 Our plan was to create a tribute to the Spy Hunter arcade game.
 
-The goal of the competation was to present a game, contained within a single jar file with size less than 4096 bytes, that could be played in the browser.
+The goal of the competition was to present a game, contained within a single jar file with size less than 4096 bytes, that could be played in the browser.
 
 
 How We Achieved 4K
