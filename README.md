@@ -1,6 +1,8 @@
 SpyHunter4K
 ===========
 
+![SpyHunter4K](https://github.com/user-attachments/assets/b773ee32-6aa4-44b5-bdb0-8a8dabbca156)
+
 **A Tribute To Spy Hunter, Submitted To The [2006 Java 4K Gaming Competition](http://www.java4k.com/index.php?action=games&cid=2)**
 
 About
@@ -38,11 +40,11 @@ http://www.java4k.com/index.php?action=games&method=view&gid=103
 
 You can play via JNLP here:
 
-https://inamik.github.io/SpyHunter4K/
+https://davidpfarrell.github.io/SpyHunter4K/
 
 You can download the jar directly here:
 
-https://inamik.github.io/SpyHunter4K/SpyHunter4K.jar
+https://davidpfarrell.github.io/SpyHunter4K/SpyHunter4K.jar
 
 
 Contributors
